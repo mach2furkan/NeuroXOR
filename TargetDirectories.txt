@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/NeuroXOR/cmake-build-debug/CMakeFiles/NeuroXOR.dir
+/Users/furkanaskin/Desktop/C Projeler/NeuroXOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/NeuroXOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
